@@ -198,9 +198,3 @@ Exploratory Data Analysis project for Titanic dataset using Python.
 
 ---
 
-If you want, I can also:
-
-* Convert this into a **professional GitHub README format**
-* Generate a **PDF report**
-* Add a **Machine Learning model section**
-* Make a shorter version for submission**
